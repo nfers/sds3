@@ -2,9 +2,9 @@ import React from 'react';
 
 function App() {
   return (
-    <div className="App">
+    <h1 className="text-primary">
       Gestor de Vendas
-    </div>
+    </h1>
   );
 }
 
