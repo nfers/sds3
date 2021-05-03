@@ -1,4 +1,3 @@
-import react from 'react';
 import img from '../../assets/img/sales.svg';
 
 function NavBar() {
