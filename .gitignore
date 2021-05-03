@@ -1,1 +1,3 @@
 /backend/settingsheroku.json
+.vscode/
+yarn.lock
