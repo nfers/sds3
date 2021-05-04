@@ -30,5 +30,3 @@ html, body {
 .text-primary {
     color: var(--color-primary) !important;
 }
-
-yarn add typescript @types/node @types/react @types/react-dom @types/jest
